@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1580332375989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3920583461",
+    "id" : "6175EA46",
+    "lastKnownWriteTime" : 1580398925,
+    "last_content_update" : 1580398925673,
+    "path" : "~/R/SQL intergration/sql_server.sql",
+    "project_path" : "sql_server.sql",
+    "properties" : {
+        "cursorPosition" : "3,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "sql"
+}
